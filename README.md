@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steven192811
 - 👀 I’m interested in working out, video games, watching movies and travelling.
-- 🌱 I’m currently learning Full Stack Software Development in Code Institute. 
+- 🌱 I’m currently learning Full Stack Software Development in Le Wagon. 
 - 💞️ I’m looking to collaborate on whatever I can do to help. 
    
   https://www.linkedin.com/in/steven-marquez-312689162/

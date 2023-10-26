@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Steven192811
+- 👋 Hi, I’m Steven Marquez
 
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Steven192811"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven192811)](https://github.com/Steven192811/github-readme-stats)
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven192811&layout=compact"/>

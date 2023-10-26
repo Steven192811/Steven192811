@@ -1,7 +1,7 @@
-My name is Peer and I am a backend software developer.
+My name is Steven and I am a software developer.
 
 # Current project:
-I'm currently working on HotSox and the HotSox API
+I'm currently working on SeniorenAllTagPlus
 
 # 💻 Tech Stack:
 ### Languages  

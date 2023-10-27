@@ -1,6 +1,12 @@
-My name is Steven and I am a Software Developer.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Steven+Marquez!;" />
+</h1>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-marquez-312689162/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Steven192811@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steven192811/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/stevenjose.rodriguezmarquez/)
 
@@ -49,10 +55,26 @@ I'm currently working on SeniorenAllTagPlus as a Full-Stack Dev.
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/)
 
-# 📊 GitHub Stats:
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=dragon-fire-fly&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=steven192811&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=steven192811&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>

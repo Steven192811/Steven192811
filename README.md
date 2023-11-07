@@ -12,9 +12,10 @@
 
 
 # Projects:
-I'm actively contributing to the development of [SeniorenAllTagPlus](https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/activities), a mobile-focused website designed for the elderly. You can explore the latest progress and features on the live application.
+I'm actively contributing to the full-stack development of SeniorenAllTagPlus, a mobile-focused website designed for the elderly. You can explore the latest progress and features on the live website here: [SeniorenAllTagPlus](https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/activities).
 
-As part of our first team project, I worked on [UsedCarHub](https://usedcarhub-anesai-228b872902f2.herokuapp.com/), a website for selling and purchasing cars. You can explore the latest progress and features on the live application.
+I contributed to the full-stack development of UsedCarHub, a website for selling and purchasing cars. You can explore the latest progress and features on the live website here: [UsedCarHub](https://usedcarhub-anesai-228b872902f2.herokuapp.com/).
+
 
 
 # 💻 Tech Stack:

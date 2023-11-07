@@ -11,8 +11,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/stevenjose.rodriguezmarquez/)
 
 
-# Current project:
-I'm currently working on SeniorenAllTagPlus as a Full-Stack Dev.
+# Projects:
+I'm actively contributing to the development of [SeniorenAllTagPlus](https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/activities), a mobile-focused application designed for the elderly. You can explore the latest progress and features on the live application.
+
+As part of our first team project, I worked on [UsedCarHub](https://usedcarhub-anesai-228b872902f2.herokuapp.com/), a website for selling and purchasing cars. You can explore the latest progress and features on the live application.
+
 
 # 💻 Tech Stack:
 ### Programming Languages

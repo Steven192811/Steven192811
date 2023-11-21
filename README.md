@@ -12,7 +12,7 @@
 
 
 # Projects:
-I'm actively contributing to the full-stack development of SeniorenAllTagPlus, a mobile-focused website designed for the elderly. You can explore the latest progress and features on the live website here: [SeniorenAllTagPlus](https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/activities).
+I'm actively contributing to the full-stack development of ActivityHub, a mobile-focused website designed for the joining activities. You can explore the latest progress and features on the live website here: [ActivityHub](https://activityhub-steven192811-f9e627737478.herokuapp.com/activities).
 
 I contributed to the full-stack development of CarTradeHub, a website for selling and purchasing cars. You can explore the latest progress and features on the live website here: [CarTradeHub](https://cartradehub-steven192811-63ade83b90ab.herokuapp.com/).
 

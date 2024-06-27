@@ -12,7 +12,7 @@
 # Projects:
 I'm actively contributing to the full-stack development of ActivityHub, a mobile-focused website designed for the joining activities. You can explore the latest progress and features on the live website here: [ActivityHub](https://activityhub-335e371ef33b.herokuapp.com//activities).
 
-I contributed to the full-stack development of CarTradeHub, a website for selling and purchasing cars. You can explore the latest progress and features on the live website here: [CarTradeHub](https://cartradehub-steven192811-63ade83b90ab.herokuapp.com/).
+I contributed to the full-stack development of CarTradeHub, a website for selling and purchasing cars. You can explore the latest progress and features on the live website here: [CarTradeHub](https://cartradehub-f78f7b7acaab.herokuapp.com/).
 
 
 
